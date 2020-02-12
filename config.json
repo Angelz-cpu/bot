@@ -1,15 +1,15 @@
 {
     "email": "angelicsmartiepants@gmail.com",
     "password": "valentina2016",
-    "cid": "CID_342_Athena_Commando_M_StreetRacerMetallic",
+    "cid": "cid_022_athena_commando_f",
     "bid": "BID_001_BlueSquire",
     "eid": "EID_Wave",
     "banner": "otherbanner24",
     "banner_colour": "defaultcolor12",
-    "level": 110,
-    "bp_tier": 100,
-    "status": "ok",
-    "platform": "WIN",
+    "level": 10000,
+    "bp_tier": 10000,
+    "status": "24/7 Lobby Bot, Made By Ang.",
+    "platform": "PSN",
     "debug": false,
     "friendaccept": true
 }
